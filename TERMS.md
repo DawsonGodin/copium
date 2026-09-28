@@ -41,7 +41,7 @@
 ## 9. Copium+ (paid plan)
 
 <p><ul>
-<li><strong>Billing.</strong> Copium+ is a subscription, paid in advance for each billing period (for example monthly) at the price shown when you subscribe, plus any applicable taxes. If you subscribe on our website, payment is handled by Stripe. If you subscribe in Discord, Discord handles billing under its own terms.</li>
+<li><strong>Billing.</strong> Copium+ is a subscription, paid in advance for each billing period (for example monthly) at the price shown when you subscribe, plus any applicable taxes. If you subscribe on our website, payment is handled by Stripe, which may act as the seller of record: it collects any sales tax or VAT and issues receipts, under its own terms. If you subscribe in Discord, Discord handles billing under its own terms.</li>
 <li><strong>Renewal and cancelling.</strong> Your subscription renews automatically until you cancel. You can cancel any time from the Copium+ page ("Manage subscription"), or in Discord for subscriptions bought there. Copium+ then stays active until the end of the period you've paid for.</li>
 <li><strong>Refunds.</strong> Payments aren't refundable and we don't give refunds for partial periods, except where the law requires it. If we discontinue Copium+ or shut the Service down, we'll refund the unused part of your current period.</li>
 <li><strong>Price changes.</strong> We'll tell you before a price change applies to your subscription, and you can cancel before it does.</li>
