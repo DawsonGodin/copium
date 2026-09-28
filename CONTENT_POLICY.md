@@ -1,6 +1,6 @@
 # Content Policy
 
-*Effective September 26, 2026*
+*Effective September 28, 2026*
 
 > A copy of [copium.pics/content-policy](https://copium.pics/content-policy) - the version there is the official one.
 

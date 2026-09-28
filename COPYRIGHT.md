@@ -1,6 +1,6 @@
 # Copyright Policy
 
-*Effective September 26, 2026*
+*Effective September 28, 2026*
 
 > A copy of [copium.pics/copyright](https://copium.pics/copyright) - the version there is the official one.
 

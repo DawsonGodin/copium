@@ -1,6 +1,6 @@
 # Terms of Service
 
-*Effective September 26, 2026*
+*Effective September 28, 2026*
 
 > A copy of [copium.pics/terms](https://copium.pics/terms) - the version there is the official one.
 
@@ -8,7 +8,7 @@
 
 ## 1. What the Service is
 
-<p>The Service lets anyone with a Discord account upload images and video clips and share links to them. It is provided free of charge. It is not affiliated with or endorsed by Discord, or by any game developer or publisher whose content appears in uploads.</p>
+<p>The Service lets anyone with a Discord account upload images and video clips and share links to them. The core Service is free of charge. An optional paid plan, Copium+, adds extra features (see "Copium+" below). It is not affiliated with or endorsed by Discord, or by any game developer or publisher whose content appears in uploads.</p>
 
 ## 2. Who can use it
 
@@ -38,30 +38,40 @@
 
 <p>There are limits on file size and upload rate. We may change these limits, change or pause features, or shut the Service down at any time, and we'll try to give reasonable notice before a shutdown. <strong>Keep your own copies of anything important.</strong> We don't guarantee that the Service will be available or that images won't be lost.</p>
 
-## 9. No warranty
+## 9. Copium+ (paid plan)
+
+<p><ul>
+<li><strong>Billing.</strong> Copium+ is a subscription, paid in advance for each billing period (for example monthly) at the price shown when you subscribe, plus any applicable taxes. If you subscribe on our website, payment is handled by Stripe. If you subscribe in Discord, Discord handles billing under its own terms.</li>
+<li><strong>Renewal and cancelling.</strong> Your subscription renews automatically until you cancel. You can cancel any time from the Copium+ page ("Manage subscription"), or in Discord for subscriptions bought there. Copium+ then stays active until the end of the period you've paid for.</li>
+<li><strong>Refunds.</strong> Payments aren't refundable and we don't give refunds for partial periods, except where the law requires it. If we discontinue Copium+ or shut the Service down, we'll refund the unused part of your current period.</li>
+<li><strong>Price changes.</strong> We'll tell you before a price change applies to your subscription, and you can cancel before it does.</li>
+<li><strong>Features.</strong> Copium+ features may change over time. Copium+ doesn't change the rules: paid accounts follow the same terms and Content Policy, and if your account is suspended or banned for breaking them, your subscription won't be refunded. If you delete your account, your subscription is cancelled straight away.</li>
+</ul></p>
+
+## 10. No warranty
 
 <p>The Service is provided "as is" and "as available", without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose and non-infringement, to the fullest extent the law allows.</p>
 
-## 10. Limitation of liability
+## 11. Limitation of liability
 
 <p>To the fullest extent the law allows, Dawson Godin and the Copium staff are not liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, content or goodwill, arising from your use of the Service. Our total liability for any claim is limited to USD $50. Some places don't allow these limits, so they may not apply to you in full.</p>
 
-## 11. Indemnity
+## 12. Indemnity
 
 <p>If you break these terms or the law through the Service, and that leads to a claim against us, you agree to cover the reasonable costs of that claim, including legal fees, to the extent the law allows.</p>
 
-## 12. Ending your use
+## 13. Ending your use
 
 <p>You can stop using the Service at any time and delete your account from the "My uploads" page. We may suspend or terminate your access at any time, with or without notice, especially for breaking these terms. The sections on your content licence (for retained content), illegal content, no warranty, limitation of liability, indemnity and governing law continue to apply after your access ends.</p>
 
-## 13. Changes
+## 14. Changes
 
 <p>We may update these terms. If a change is significant, we'll tell you in the Service or on Discord, and you may be asked to accept the new version before you upload again. If you keep using the Service after a change, you accept the new terms.</p>
 
-## 14. Governing law
+## 15. Governing law
 
 <p>These terms are governed by the laws of the United States of America, except where the law of the place you live gives you protections that can't be waived.</p>
 
-## 15. Contact
+## 16. Contact
 
 <p>For questions, appeals or legal notices, contact <a href="mailto:legal@copium.pics">legal@copium.pics</a>.</p>
