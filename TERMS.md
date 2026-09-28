@@ -20,7 +20,7 @@
 
 ## 4. Images are public by link
 
-<p>Anyone who has an image's link can view it, and links can be shared further. Search engines and link previews (for example in Discord) may also show images. Don't upload anything you want to keep private.</p>
+<p>Anyone who has an image's link can view it, and links can be shared further. Search engines and link previews (for example in Discord) may also show images. Don't upload anything you want to keep private. Copium+ passwords, expiring links and burn-after-viewing limit who can open an upload, but they aren't a guarantee: anyone who can view it can save or copy it.</p>
 
 ## 5. Rules and moderation
 
@@ -45,6 +45,7 @@
 <li><strong>Renewal and cancelling.</strong> Your subscription renews automatically until you cancel. You can cancel any time from the Copium+ page ("Manage subscription"), or in Discord for subscriptions bought there. Copium+ then stays active until the end of the period you've paid for.</li>
 <li><strong>Refunds.</strong> Payments aren't refundable and we don't give refunds for partial periods, except where the law requires it. If we discontinue Copium+ or shut the Service down, we'll refund the unused part of your current period.</li>
 <li><strong>Price changes.</strong> We'll tell you before a price change applies to your subscription, and you can cancel before it does.</li>
+<li><strong>Your own domain.</strong> You may only connect a domain you control. It serves your uploads under these terms, and you're responsible for keeping it pointed at us. When Copium+ ends or you remove the domain, links using it stop working.</li>
 <li><strong>Features.</strong> Copium+ features may change over time. Copium+ doesn't change the rules: paid accounts follow the same terms and Content Policy, and if your account is suspended or banned for breaking them, your subscription won't be refunded. If you delete your account, your subscription is cancelled straight away.</li>
 </ul></p>
 

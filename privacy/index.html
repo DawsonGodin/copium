@@ -43,6 +43,8 @@ li { margin: 4px 0; }
         <li><strong>Upload IP address:</strong> the IP address each image was uploaded from, kept for 90 days to investigate abuse and illegal content, then erased (kept longer only for content preserved for law enforcement).</li>
         <li><strong>Sign-in sessions:</strong> a record of your active sessions so they can be ended when you sign out or lose access.</li>
         <li><strong>Copium+ billing:</strong> if you subscribe on our website, Stripe processes your payment. We receive and store your Stripe customer and subscription IDs and your subscription status, not your card details. If you subscribe in Discord, Discord tells us whether your subscription is active.</li>
+        <li><strong>View counts:</strong> how many times each upload's page or file was opened, per day. We don't record who viewed it: repeat views are recognised using a short-lived keyed hash of the viewer's IP address and browser that is held in memory only and never stored.</li>
+        <li><strong>Copium+ settings:</strong> your custom embed text, profile name and bio, albums, privacy settings on uploads (passwords are stored only as a one-way hash), clip tool jobs, and any domains you connect.</li>
         <li><strong>Appeals:</strong> if your account is suspended and you appeal, your message and the staff decision.</li>
         <li><strong>Technical data:</strong> your IP address is used briefly for rate limiting and may appear in short-lived server or hosting logs.</li>
       </ul></p>
@@ -54,13 +56,14 @@ li { margin: 4px 0; }
         <li><strong>Stripe</strong>, which processes Copium+ payments on our website. It collects your payment details and email address directly, under its own privacy policy, and keeps billing records as the law requires.</li>
         <li><strong>OpenAI</strong>, whose moderation service scans each image (or sampled video frames) and title when you upload or rename it. This data is processed under OpenAI's API terms.</li>
         <li><strong>Our storage, CDN and hosting providers</strong> (for example Cloudflare), which store and deliver images.</li>
+        <li><strong>Cloudflare</strong>, which also issues the HTTPS certificate when you connect your own domain to Copium+ (it receives the domain name).</li>
         <li><strong>Authorities</strong>: NCMEC, law enforcement or courts, where the law requires it or where someone's safety is at risk.</li>
       </ul>Some of these providers are in the United States, so your data may be processed outside your country.</p>
 <h2>4. What is public</h2>
-<p>Anyone with an image's link can see the image. Share pages also show its title, your display name, your avatar and the upload date. Staff can see all uploads and your Discord ID.</p>
+<p>Anyone with an image's link can see the image, unless you protect it with a password (Copium+). Share pages also show its title, your display name, your avatar and the upload date. If you make a Copium+ profile public, anyone can see its name, bio, the uploads you put on it and the albums you list; album links show the uploads in that album. Staff can see all uploads, including protected ones, and your Discord ID.</p>
 <h2>5. How long we keep it</h2>
 <p><ul>
-        <li><strong>Images</strong> stay until you or staff delete them. Deleted files are removed from storage promptly, though cached copies (on CDNs or in other people's browsers) can take a short time to expire.</li>
+        <li><strong>Images</strong> stay until you or staff delete them, or until the expiry time or view limit you set (Copium+). Deleted files are removed from storage promptly, though cached copies (on CDNs or in other people's browsers) can take a short time to expire.</li>
         <li><strong>Fingerprints of removed images</strong> are kept so the same file can't be uploaded again.</li>
         <li><strong>Upload IP addresses</strong> are erased after 90 days.</li>
         <li><strong>Sessions</strong> expire after 14 days, or immediately when you sign out.</li>
