@@ -4,7 +4,7 @@
 
 > A copy of [copium.pics/terms](https://copium.pics/terms) - the version there is the official one.
 
-<p>These terms are an agreement between you and Dawson Godin ("we", "us"), who runs Copium, a public image and video host (the "Service"). By signing in or uploading, you agree to them, along with our <a href="PRIVACY.md">Privacy Policy</a>, <a href="CONTENT_POLICY.md">Content Policy</a> and <a href="COPYRIGHT.md">Copyright Policy</a>. If you don't agree, don't use the Service.</p>
+<p>These terms are an agreement between you and Euphoric ("we", "us"), who runs Copium, a public image and video host (the "Service"). By signing in or uploading, you agree to them, along with our <a href="PRIVACY.md">Privacy Policy</a>, <a href="CONTENT_POLICY.md">Content Policy</a> and <a href="COPYRIGHT.md">Copyright Policy</a>. If you don't agree, don't use the Service.</p>
 
 ## 1. What the Service is
 
@@ -55,7 +55,7 @@
 
 ## 11. Limitation of liability
 
-<p>To the fullest extent the law allows, Dawson Godin and the Copium staff are not liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, content or goodwill, arising from your use of the Service. Our total liability for any claim is limited to USD $50. Some places don't allow these limits, so they may not apply to you in full.</p>
+<p>To the fullest extent the law allows, Euphoric and the Copium staff are not liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, content or goodwill, arising from your use of the Service. Our total liability for any claim is limited to USD $50. Some places don't allow these limits, so they may not apply to you in full.</p>
 
 ## 12. Indemnity
 

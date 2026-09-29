@@ -4,7 +4,7 @@
 
 > A copy of [copium.pics/privacy](https://copium.pics/privacy) - the version there is the official one.
 
-<p>This policy explains what Copium, a public image and video host, collects, why, and what your choices are. The service is run by Dawson Godin, who controls this data. Contact: <a href="mailto:legal@copium.pics">legal@copium.pics</a>.</p>
+<p>This policy explains what Copium, a public image and video host, collects, why, and what your choices are. The service is run by Euphoric, who controls this data. Contact: <a href="mailto:legal@copium.pics">legal@copium.pics</a>.</p>
 
 ## 1. What we collect
 
