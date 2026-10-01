@@ -1,6 +1,6 @@
 # Terms of Service
 
-*Effective September 28, 2026*
+*Effective October 1, 2026*
 
 > A copy of [copium.pics/terms](https://copium.pics/terms) - the version there is the official one.
 
@@ -8,7 +8,7 @@
 
 ## 1. What the Service is
 
-<p>The Service lets anyone with a Discord account upload images and video clips and share links to them. The core Service is free of charge. An optional paid plan, Copium+, adds extra features (see "Copium+" below). It is not affiliated with or endorsed by Discord, or by any game developer or publisher whose content appears in uploads.</p>
+<p>The Service lets anyone with a Discord account upload images and video clips and share links to them. The core Service is free of charge. An optional paid plan, Copium+, adds extra features (see "Copium+" below). It also includes a link shortener. It is not affiliated with or endorsed by Discord, or by any game developer or publisher whose content appears in uploads.</p>
 
 ## 2. Who can use it
 

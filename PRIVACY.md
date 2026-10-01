@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Effective September 28, 2026*
+*Effective October 1, 2026*
 
 > A copy of [copium.pics/privacy](https://copium.pics/privacy) - the version there is the official one.
 
@@ -17,6 +17,7 @@
 <li><strong>Upload IP address:</strong> the IP address each image was uploaded from, kept for 90 days to investigate abuse and illegal content, then erased (kept longer only for content preserved for law enforcement).</li>
 <li><strong>Sign-in sessions:</strong> a record of your active sessions so they can be ended when you sign out or lose access.</li>
 <li><strong>Copium+ billing:</strong> if you subscribe on our website, Stripe processes your payment. We receive and store your Stripe customer and subscription IDs and your subscription status, not your card details. If you subscribe in Discord, Discord tells us whether your subscription is active.</li>
+<li><strong>Short links:</strong> the destination of each short link you create, its title and settings, and click counts per day, by referring website and by country (from our CDN). We don't record who clicked.</li>
 <li><strong>View counts:</strong> how many times each upload's page or file was opened, per day. We don't record who viewed it: repeat views are recognised using a short-lived keyed hash of the viewer's IP address and browser that is held in memory only and never stored.</li>
 <li><strong>Copium+ settings:</strong> your custom embed text, profile name and bio, albums, folders and tags, share-page style, automatic-deletion setting, the names of your upload tokens, privacy settings on uploads (passwords are stored only as a one-way hash), clip tool jobs, and any domains you connect.</li>
 <li><strong>Appeals:</strong> if your account is suspended and you appeal, your message and the staff decision.</li>
@@ -34,6 +35,7 @@
 <li><strong>Stripe</strong>, which processes Copium+ payments on our website. It collects your payment details and email address directly, under its own privacy policy, and keeps billing records as the law requires.</li>
 <li><strong>OpenAI</strong>, whose moderation service scans each image (or sampled video frames) and title when you upload or rename it. This data is processed under OpenAI's API terms.</li>
 <li><strong>Our storage, CDN and hosting providers</strong> (for example Cloudflare), which store and deliver images.</li>
+<li><strong>Google (Web Risk)</strong>, which checks the destination of every short link for malware, phishing and unwanted software when it's created and regularly afterwards. Google receives the link's address only.</li>
 <li><strong>Cloudflare</strong>, which also issues the HTTPS certificate when you connect your own domain to Copium+ (it receives the domain name).</li>
 <li><strong>Authorities</strong>: NCMEC, law enforcement or courts, where the law requires it or where someone's safety is at risk.</li>
 </ul>Some of these providers are in the United States, so your data may be processed outside your country.</p>

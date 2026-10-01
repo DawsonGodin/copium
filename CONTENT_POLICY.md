@@ -1,6 +1,6 @@
 # Content Policy
 
-*Effective September 28, 2026*
+*Effective October 1, 2026*
 
 > A copy of [copium.pics/content-policy](https://copium.pics/content-policy) - the version there is the official one.
 
@@ -47,3 +47,7 @@
 ## 6. Reporting
 
 <p>Use the "Report this image" link on any image page. If someone is in immediate danger, contact your local emergency services. You can report child sexual abuse material directly to <a href="https://report.cybertip.org/" target="_blank" rel="noopener">NCMEC's CyberTipline</a> (US) or the <a href="https://report.iwf.org.uk/" target="_blank" rel="noopener">Internet Watch Foundation</a> (UK/international).</p>
+
+## 7. Short links
+
+<p>Short links must not lead to anything this policy doesn't allow, and must never be used for <strong>phishing, scams, malware or other harmful downloads</strong>, for spam, or to disguise where a link goes. Every destination is checked automatically before a link works (and again regularly); unsafe links are refused or blocked, and anyone can report a link. Breaking these rules can get your account suspended or banned.</p>
