@@ -50,4 +50,4 @@
 
 ## 7. Short links
 
-<p>Short links must not lead to anything this policy doesn't allow, and must never be used for <strong>phishing, scams, malware or other harmful downloads</strong>, for spam, or to disguise where a link goes. Every destination is checked automatically before a link works (and again regularly); unsafe links are refused or blocked, and anyone can report a link. Breaking these rules can get your account suspended or banned.</p>
+<p>Short links must not lead to anything this policy doesn't allow, and must never be used for <strong>phishing, scams, malware or other harmful downloads</strong>, for spam, or to disguise where a link goes. Every destination is checked automatically before a link works (and again regularly); unsafe links are refused or blocked, and anyone can report a link. Copium+ preview cards (the title, description and image apps show for a link) must honestly describe where the link goes - a card that pretends to be a different site, a giveaway or an official message is treated like a disguised link. Breaking these rules can get your account suspended or banned.</p>
