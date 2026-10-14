@@ -40,7 +40,7 @@
 <p>We don't sell your data or use it for advertising. We share it only with:<ul>
 <li><strong>Discord</strong>, which handles sign-in.</li>
 <li><strong>Stripe</strong>, which processes Copium+ payments on our website. It collects your payment details and email address directly, under its own privacy policy, and keeps billing records as the law requires.</li>
-<li><strong>OpenAI</strong>, whose moderation service scans each image (or sampled video frames) and title when you upload or rename it. This data is processed under OpenAI's API terms.</li>
+<li><strong>OpenAI</strong>, whose moderation service scans each image (or sampled video frames) and title when you upload or rename it, and which writes a short description and tags for each image or clip from a small preview (used as alt text and for search; you can switch this off in Customize). This data is processed under OpenAI's API terms, which don't allow it to be used to train their models.</li>
 <li><strong>Our storage, CDN and hosting providers</strong> (for example Cloudflare), which store and deliver images.</li>
 <li><strong>Google (Web Risk)</strong>, which checks the destination of every short link for malware, phishing and unwanted software when it's created and regularly afterwards. Google receives the link's address only.</li>
 <li><strong>Cloudflare</strong>, which also issues the HTTPS certificate when you connect your own domain to Copium+ (it receives the domain name).</li>
